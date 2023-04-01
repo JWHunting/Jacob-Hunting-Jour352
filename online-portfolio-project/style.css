@@ -2,12 +2,10 @@ h1 {
     
 font-size:100px;
 padding:100px 10px 0px 0px;
-text-align:right;
 color:white
 }
 h2{
     font-size:50px;
-    text-align: right;
     color:white;
 }
 h3{
@@ -56,4 +54,7 @@ body{
 #button a {
     color:white;
     text-decoration: none;
+}
+.topper{
+    text-align: center;
 }
