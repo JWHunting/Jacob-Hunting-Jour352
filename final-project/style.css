@@ -1,6 +1,29 @@
 @media{
     .lead{
         width: 100%;
+        padding: 20px 60px 20px 60px;
+        
+    }
+    .middle{
+        width: 100%;
+    }
+    h3{
+        text-align: center;
+    }
+    body{
+        background-color: #DCDCDD;
+    }
+    h1{
+        background-color: #4C5C68;
+        color: white;
+        margin: 20px 20px 20px 20px;
+        text-align: center;
+    }
+    #topper{
+        background-color: #4C5C68;
+    }
+    #content{
+        width: 80%;
     }
 }
 
