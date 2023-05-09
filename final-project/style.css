@@ -9,6 +9,9 @@
     }
     h3{
         text-align: center;
+        font-size: 40px;
+        font-weight: bold;
+        color: #1985A1;
     }
     body{
         background-color: #DCDCDD;
@@ -18,12 +21,41 @@
         color: white;
         margin: 20px 20px 20px 20px;
         text-align: center;
+        font-size: 72px;
+    }
+    h5{
+        text-align: center;
+        font-size: 25px;
+    }
+    p{
+        font-size: 15px;
     }
     #topper{
         background-color: #4C5C68;
     }
     #content{
-        width: 80%;
+        width: 60%;
+    }
+    .quote{
+        font-size: 60px;
+        font-weight: bold;
+        color: white;
+        border-top:3px solid #F5F0F6;
+    }
+    .attribution{
+        font-size: 25px;
+        font-weight: bold;
+        color: #1985A1;
+        border-bottom:3px solid #F5F0F6;
+    }
+    .pullquote{
+        background-color: #46494C;
+        padding: 50px 50px 50px 50px;
+        margin: 30px 0px 30px 0px;
+        
+    }
+    #graph{
+        width: 65%;
     }
 }
 
