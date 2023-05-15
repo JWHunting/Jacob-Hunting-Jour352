@@ -23,11 +23,10 @@
         background-color: #DCDCDD;
     }
     h1{
-        background-color: #4C5C68;
-        color: white;
+        color: #1985A1;
         margin: 20px 20px 20px 20px;
         text-align: center;
-        font-size: 100px;
+        font-size: 50px;
     }
     h5{
         text-align: center;
@@ -37,9 +36,7 @@
     p{
         font-size: 20px;
     }
-    #topper{
-        background-color: #4C5C68;
-    }
+  
     #content{
         width: 60%;
     }
@@ -69,8 +66,8 @@
     }
     #caption{
         text-align: center;
-        color: white;
-        font-size: 10px;
+        color: black;
+        font-size: 8px;
     }
     #lowercaption{
         text-align: center;
@@ -91,13 +88,54 @@
 }
 
 @media (min-width:576px){
-    
+    #topper{
+        background-color: #4C5C68;
+        
 }
-
+     h1{
+        background-color: #4C5C68;
+        color: white;
+        margin: 20px 20px 20px 20px;
+        text-align: center;
+        font-size: 70px;
+    }
+     #caption{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+}
 @media (min-width:992px){
-    
+     #topper{
+        background-color: #4C5C68;
 }
+     h1{
+        background-color: #4C5C68;
+        color: white;
+        margin: 20px 20px 20px 20px;
+        text-align: center;
+        font-size: 90px;
+    }
+     #caption{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+    }
 
 @media (min-width:1200px){
-    
-}
+     #topper{
+        background-color: #4C5C68;
+}\ h1{
+        background-color: #4C5C68;
+        color: white;
+        margin: 20px 20px 20px 20px;
+        text-align: center;
+        font-size: 100px;
+    }
+     #caption{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+    }
