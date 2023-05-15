@@ -1,17 +1,23 @@
 @media{
     .lead{
         width: 100%;
-        padding: 20px 60px 20px 60px;
+        padding: 20px 60px 0px 60px;
         
     }
     .middle{
         width: 100%;
+        padding: 50px 0px 0px 0px;
+    }
+    .end{
+        width: 100%;
+        padding: 50px 0px 0px 0px;
     }
     h3{
         text-align: center;
-        font-size: 40px;
+        font-size: 50px;
         font-weight: bold;
         color: #1985A1;
+        padding: 10px 10px 10px 10px;
     }
     body{
         background-color: #DCDCDD;
@@ -21,19 +27,23 @@
         color: white;
         margin: 20px 20px 20px 20px;
         text-align: center;
-        font-size: 72px;
+        font-size: 100px;
     }
     h5{
         text-align: center;
-        font-size: 25px;
+        font-size: 20px;
+        padding: 20px 20px 20px 20px;
     }
     p{
-        font-size: 15px;
+        font-size: 20px;
     }
     #topper{
         background-color: #4C5C68;
     }
     #content{
+        width: 60%;
+    }
+    #content2{
         width: 60%;
     }
     .quote{
@@ -57,6 +67,27 @@
     #graph{
         width: 65%;
     }
+    #caption{
+        text-align: center;
+        color: white;
+        font-size: 10px;
+    }
+    #lowercaption{
+        text-align: center;
+        color: black;
+        font-size: 10px;
+    }
+    #byline{
+        font-weight: bold;
+    }
+    /*CSS Code from positronx.io*/
+    hr { 
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    color:#1985A1;
+       
+}
 }
 
 @media (min-width:576px){
